@@ -76,9 +76,9 @@ The program offers the following functionalities:
 
 To run the MyAudio app:
 1. Compile the Java files.
+   (javac MyAudioUI.java Library.java AudioContent.java AudioContentStore.java)
 2. Run the MyAudioUI class.
+   (java MyAudioUI)
 3. Follow the on-screen prompts to interact with the application and utilize its features.
 
-For specific usage instructions and available actions, refer to the application's user interface and the assignment guidelines.
 
-For any inquiries or support, please contact [Your Name] at [Your Email].
