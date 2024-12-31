@@ -1,5 +1,4 @@
-# Spotify App on terminal
-
+# Music and Library management system
 
 MyAudio is an audio content management application that allows users to organize and manage their songs, audiobooks, podcasts, and playlists. This README provides an overview of the program's structure, functionality, and recent modifications based on the assignment requirements.
 
